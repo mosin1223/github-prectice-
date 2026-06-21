@@ -2,4 +2,5 @@ ewen ewwbewe wenwje \
 line 2 added to check 
 This line was added in feature branchgit status
 
-this is the file i amd editing in the clone file to chk whether it is working or not 
+this is the file i amd editing in the clone file to chk
+new line after cloning again
